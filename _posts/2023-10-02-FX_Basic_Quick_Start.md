@@ -1,7 +1,7 @@
 ---
 title: "Quick Start"
 layout: post
-date: 2023-10-05 09:52:18 -0500
+date: 2023-10-08 09:52:18 -0500
 categories: [FXR90,1. Basic]
 tags: []
 order : 4
