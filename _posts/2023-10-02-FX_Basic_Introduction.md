@@ -11,8 +11,8 @@ mermaid: true
 
 
 image:
-  path: /assets/misc/Vulcan02.162.png
-  lqip: /assets/misc/Vulcan02.162_LQP.png
+  path: https://github.com/R-7951/my-temp2/blob/main/assets/misc/Vulcan02.162.png?raw=true
+  lqip: https://github.com/R-7951/my-temp2/blob/main/assets/misc/Vulcan02.162_LQP.png?raw=true
   alt: FXR90 Reader
   
 ---
