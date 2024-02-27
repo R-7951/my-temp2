@@ -30,7 +30,7 @@ panel:
 copyright:
   # Shown at the bottom of the post
   license:
-    template: This post is licensed under :LICENSE_NAME by the author.
+    template: This post is written by Zebra Devs
     name: GPL-3.0
     link: https://www.gnu.org/licenses/gpl-3.0.en.html
 

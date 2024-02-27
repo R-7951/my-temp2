@@ -3,11 +3,18 @@ title: "Introduction"
 layout: post
 date: 2023-10-05 09:52:18 -0500
 categories: [FXR90,1. Basic]
-tags: []
+tags: [FXR90]
 order : 1
 pin: true
 math: true
 mermaid: true
+
+
+image:
+  path: /assets/misc/Vulcan02.162.png
+  lqip: /assets/misc/Vulcan02.162_LQP.png
+  alt: FXR90 Reader
+  
 ---
 
 
