@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/misc/zebra-dark.png"
+avatar: "https://github.com/R-7951/my-temp2/blob/main/assets/misc/zebra-dark.png?raw=true"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
